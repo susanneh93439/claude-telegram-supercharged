@@ -1,0 +1,10 @@
+{
+  "name": "claude-telegram-supercharged",
+  "version": "0.1.0",
+  "description": "Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, and Agentic Mode (watch every tool call live). One-line install.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
